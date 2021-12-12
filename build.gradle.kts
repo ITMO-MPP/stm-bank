@@ -20,8 +20,7 @@ group = "ru.ifmo.mpp"
 version = "1.0-SNAPSHOT"
 
 repositories {
-    jcenter()
-    maven("https://kotlin.bintray.com/kotlinx/")
+    mavenCentral()
 }
 
 dependencies {
