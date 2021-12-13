@@ -2,7 +2,7 @@ import org.jetbrains.kotlin.gradle.plugin.*
 
 buildscript {
     repositories {
-        jcenter()
+        mavenCentral()
     }
     dependencies {
         classpath("org.jetbrains.kotlinx:atomicfu-gradle-plugin:0.14.1")
