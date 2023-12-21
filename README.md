@@ -23,8 +23,8 @@
 ## Сборка и тестирование
 
 Для проверки вашего решения запустите из корня репозитория:
-* `./gradlew build` на Linux или MacOS
-* `gradlew build` на Windows
+* `./gradlew test` на Linux или MacOS
+* `gradlew test` на Windows
 
 При этом автоматически будут запущены следующие тесты:
 
