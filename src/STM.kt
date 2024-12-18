@@ -1,5 +1,10 @@
 import kotlinx.atomicfu.*
 
+/*
+   Lock-free STM implementation.
+   @author :TODO: LastName FirstName
+*/
+
 /**
  * Atomic block.
  */
